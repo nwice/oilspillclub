@@ -21,5 +21,3 @@ traits
   image1.jpg
   	can this can it hold eyes?
 
-
-make the parents
