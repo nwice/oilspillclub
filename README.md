@@ -22,4 +22,4 @@ traits
   	can this can it hold eyes?
 
 
-make the parents - offspring testable but unknown
+make the parents
